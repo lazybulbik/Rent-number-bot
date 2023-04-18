@@ -10,7 +10,7 @@
  - Aiogram
  - requests
  - SmsActivateApi
- -sqlite3
+ - sqlite3
 
 **Возможности**
 
